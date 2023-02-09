@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.Navbar{
+  align-items: center;
+  padding: 20px;
+  display: flex;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.Navbar .links{
+  margin-left: auto;
+}
+
+.Navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.Navbar a:hover {
+  color: #f1356d;
+}
